@@ -1,7 +1,8 @@
-package com.example.airbnb;
+package com.example.airbnb.presentation;
 
 import android.os.Bundle;
 
+import com.example.airbnb.R;
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
