@@ -1,4 +1,2 @@
 # COMP3380 A01 Project
-UI for a Airbnb database 
-
-Make a simple interface for users to be able to interact with our database
+The objective of the project is to design and implement a database based on publicly available data. We approached to achieve this objective by choosing a dataset, designing, creating and populating the relational database, and implementing an interface to allow users analyze the data with by querying. The dataset chosen is an open source dataset on Kaggle.com about Airbnbs in New York City, NY, USA for 2019 and expected to be updated annually!
