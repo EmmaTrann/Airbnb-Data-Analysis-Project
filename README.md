@@ -1,4 +1,8 @@
-# COMP3380: Airbnb Data Analysis Project
+# Airbnb Data Analysis Project
+
+**!!! Disclaimer: Code are written by me but the problem question belongs to the University of Manitoba. This repo is only used for the purpose of a code portfolio to support my job hunt process.**
+
+
 The objective of the project is to design and implement a database based on publicly available data. We approached to achieve this objective by choosing a dataset, designing, creating and populating the relational database, and implementing an interface to allow users analyze the data with by querying. The dataset chosen is an open source dataset on Kaggle.com[1] about Airbnbs in New York City, NY, USA for 2019 and expected to be updated annually!
 
 [1] https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
