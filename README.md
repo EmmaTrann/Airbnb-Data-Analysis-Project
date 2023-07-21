@@ -7,6 +7,9 @@ The objective of the project is to design and implement a database based on publ
 
 [1] https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
+<img width="733" alt="Screenshot 2023-07-21 at 4 14 00 PM" src="https://github.com/EmmaTrann/Airbnb-Data-Analysis-Project/assets/73355680/201b7335-6597-443a-abee-23839459dbc0">
+
+
 **Sample Output**
 
 --Display all property listings in a given price range specified by users
